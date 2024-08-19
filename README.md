@@ -4,6 +4,8 @@ waveshare electronics
 
 ![Waveshare_logo.png](Waveshare_logo.png.png)
 
+https://www.waveshare.com/wiki/1.8inch_LCD_for_micro:bit
+
 ## License
 
 MIT
